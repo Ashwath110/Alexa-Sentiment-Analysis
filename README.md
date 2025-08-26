@@ -27,8 +27,11 @@ Sample Output / Visualization:-
 
 2. Sentiment Scores Example:
 Overall Sentiment: Neutral 🙂
+
 Positive:  1363.30
+
 Negative:   82.78
+
 Neutral:   1688.56
 3. CSV Output:
 
