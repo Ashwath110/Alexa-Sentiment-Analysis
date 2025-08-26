@@ -9,6 +9,7 @@ Features:-
 - Clean and structured Python code for easy execution
 
 Project Structure:-
+
 Amazon-Alexa-Sentiment-Analysis/
 │── sentiment_analysis.py          # Main Python script
 │── requirements.txt               # Python libraries used
