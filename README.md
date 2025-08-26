@@ -10,13 +10,7 @@ Features:-
 
 Project Structure:-
 
-Amazon-Alexa-Sentiment-Analysis/
-│── sentiment_analysis.py          # Main Python script
-│── requirements.txt               # Python libraries used
-│── README.md                      # Project description
-│── alexa_sentiment_results.csv    # (Optional) Output file generated
-│── data/                          # (Optional) local dataset storage
-│    └── amazon_alexa.tsv
+<img width="437" height="131" alt="Screenshot 2025-08-26 231737" src="https://github.com/user-attachments/assets/58b13f78-ed21-4021-9728-421848bbf58b" />
 
 Usage:-
 Run the Python script:
