@@ -28,12 +28,15 @@ python sentiment_analysis.py
 Sample Output / Visualization:-
 1. Pie Chart of Ratings:
 <img width="500" height="500" alt="Output" src="https://github.com/user-attachments/assets/66658826-a6a6-408d-bc8a-2ddb42a8e5c9" />
+
+
 2. Sentiment Scores Example:
 Overall Sentiment: Neutral 🙂
 Positive:  1363.30
 Negative:   82.78
 Neutral:   1688.56
 3. CSV Output:
+
 alexa_sentiment_results.csv contains:-
 | rating | date      | variation     | verified\_reviews | feedback | Positive | Negative | Neutral |
 | ------ | --------- | ------------- | ----------------- | -------- | -------- | -------- | ------- |
